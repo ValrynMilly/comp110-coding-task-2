@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Character.cpp" />
+    <ClCompile Include="Doctor.cpp" />
+    <ClCompile Include="CellEdge.cpp" />
+    <ClCompile Include="CellPassage.cpp" />
+    <ClCompile Include="CellWall.cpp" />
+    <ClCompile Include="Directions.cpp" />
+    <ClCompile Include="doomed_patient.cpp" />
+    <ClCompile Include="CellDoor.cpp" />
+    <ClCompile Include="Exit.cpp" />
+    <ClCompile Include="GameObject.cpp" />
+    <ClCompile Include="Guard.cpp" />
+    <ClCompile Include="InitialisationError.cpp" />
+    <ClCompile Include="Level.cpp" />
+    <ClCompile Include="LevelCell.cpp" />
+    <ClCompile Include="Maze.cpp" />
+    <ClCompile Include="MazeGenerationManager.cpp" />
+    <ClCompile Include="NPC.cpp" />
+    <ClCompile Include="PatientGame.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="VectorXY.cpp" />
+    <ClCompile Include="Room.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="Texture.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Character.h" />
+    <ClInclude Include="Doctor.h" />
+    <ClInclude Include="CellEdge.h" />
+    <ClInclude Include="CellPassage.h" />
+    <ClInclude Include="CellWall.h" />
+    <ClInclude Include="Directions.h" />
+    <ClInclude Include="doomed_patient.h" />
+    <ClInclude Include="CellDoor.h" />
+    <ClInclude Include="Exit.h" />
+    <ClInclude Include="GameObject.h" />
+    <ClInclude Include="Guard.h" />
+    <ClInclude Include="InitialisationError.h" />
+    <ClInclude Include="Level.h" />
+    <ClInclude Include="LevelCell.h" />
+    <ClInclude Include="Maze.h" />
+    <ClInclude Include="MazeGenerationManager.h" />
+    <ClInclude Include="NPC.h" />
+    <ClInclude Include="PatientGame.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="VectorXY.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="Room.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="Texture.h" />
+  </ItemGroup>
+</Project>

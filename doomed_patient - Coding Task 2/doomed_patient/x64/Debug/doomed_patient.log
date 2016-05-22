@@ -1,0 +1,34 @@
+﻿  stdafx.cpp
+  Texture.cpp
+  Room.cpp
+  VectorXY.cpp
+  Player.cpp
+  PatientGame.cpp
+  NPC.cpp
+  MazeGenerationManager.cpp
+  Maze.cpp
+c:\users\emiljano\desktop\comp150-desktop-game-master\comp110-coding-task-2\doomed_patient - coding task 2\doomed_patient\maze.cpp(18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  LevelCell.cpp
+  Level.cpp
+c:\users\emiljano\desktop\comp150-desktop-game-master\comp110-coding-task-2\doomed_patient - coding task 2\doomed_patient\level.cpp(29): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  InitialisationError.cpp
+  Guard.cpp
+  GameObject.cpp
+  Exit.cpp
+  CellDoor.cpp
+  doomed_patient.cpp
+  Directions.cpp
+  CellWall.cpp
+  CellPassage.cpp
+  CellEdge.cpp
+  Generating Code...
+c:\users\emiljano\desktop\comp150-desktop-game-master\comp110-coding-task-2\doomed_patient - coding task 2\doomed_patient\directions.cpp(27): warning C4715: 'Directions::getDirectionVector': not all control paths return a value
+c:\users\emiljano\desktop\comp150-desktop-game-master\comp110-coding-task-2\doomed_patient - coding task 2\doomed_patient\directions.cpp(48): warning C4715: 'Directions::getDirectionFromVector': not all control paths return a value
+c:\users\emiljano\desktop\comp150-desktop-game-master\comp110-coding-task-2\doomed_patient - coding task 2\doomed_patient\directions.cpp(64): warning C4715: 'Directions::getOpposite': not all control paths return a value
+c:\users\emiljano\desktop\comp150-desktop-game-master\comp110-coding-task-2\doomed_patient - coding task 2\doomed_patient\levelcell.cpp(74): warning C4715: 'LevelCell::getRandomUninitialisedDirection': not all control paths return a value
+c:\users\emiljano\desktop\comp150-desktop-game-master\comp110-coding-task-2\doomed_patient - coding task 2\doomed_patient\levelcell.cpp(143): warning C4715: 'LevelCell::getRandomWall': not all control paths return a value
+  Compiling...
+  Doctor.cpp
+  Character.cpp
+  Generating Code...
+  doomed_patient.vcxproj -> C:\Users\Emiljano\Desktop\comp150-desktop-game-master\comp110-coding-task-2\doomed_patient - Coding Task 2\x64\Debug\doomed_patient.exe
