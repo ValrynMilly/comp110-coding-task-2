@@ -13,7 +13,7 @@ You are required to have:
 Doomed Patient Game
 Keyboard
 Mouse
-------------
+
 
 Project Description
 -------------
