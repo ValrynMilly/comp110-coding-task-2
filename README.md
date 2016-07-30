@@ -10,9 +10,9 @@ This is my Markdown documentation of what I will be doing for the Coding Task 2
 
 You are required to have:
 
-Doomed Patient Game
-Keyboard
-Mouse
+Doomed Patient Game.
+Keyboard.
+Mouse.
 
 
 Project Description
